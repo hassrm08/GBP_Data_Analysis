@@ -10,4 +10,4 @@ A full Gage R&R comparison was carried out with the Minitab statistical software
 
 The results suggest that the S-test has a higher reliability based on the results of the Gage comparison.
 
-In this case, it is recmoneded that Concora be phased out as the primary means of measuring machine direciton paper strength and the S-test should take its place.
+In this case, it is recomended that Concora be phased out as the primary means of measuring machine direciton paper strength and the S-test should take its place.
